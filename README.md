@@ -1,1 +1,1 @@
-Hi, this project has moved to https://github.com/vimeo/graph-explorer
+Hi, this project has moved to http://vimeo.github.io/graph-explorer/
